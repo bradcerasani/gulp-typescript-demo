@@ -8,7 +8,7 @@ var Greeter = (function () {
     return Greeter;
 })();
 ;
-var greeter = new Greeter("Hello, world!");
+var greeter = new Greeter("Hello, World!");
 var str = greeter.greet();
 document.body.innerHTML = str;
 //# sourceMappingURL=main.js.map
