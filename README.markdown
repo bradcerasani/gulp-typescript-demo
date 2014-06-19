@@ -10,3 +10,5 @@ cd gulp-typescript-demo
 npm install
 gulp
 ```
+
+Now, any changes made to `app/main.ts` will automatically compile to Javascript and reload `index.html` in the browser.
