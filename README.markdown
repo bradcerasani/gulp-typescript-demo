@@ -4,10 +4,9 @@ Basic gulp watch task that compiles TypeScript files and reloads the browser on 
 
 ### Setup
 
-`git clone https://github.com/bradcerasani/gulp-typescript-demo.git`
-
-`cd gulp-typescript-demo`
-
-`npm install`
-
-`gulp`
+```fish
+git clone https://github.com/bradcerasani/gulp-typescript-demo.git
+cd gulp-typescript-demo
+npm install
+gulp
+```
