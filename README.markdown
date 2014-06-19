@@ -11,4 +11,4 @@ npm install
 gulp
 ```
 
-Now, any changes made to `app/main.ts` will automatically compile to Javascript and reload `index.html` in the browser.
+Now, any changes made to `app/main.ts` will automatically compile to Javascript on save, and `index.html` will be reloaded in the browser.
